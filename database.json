@@ -1,0 +1,2121 @@
+[
+  {
+    "id": "salivary-gland-mucous-cell",
+    "label": {
+      "en": "Salivary gland mucous cell"
+    },
+    "description": {
+      "en": "Salivary gland mucous cell."
+    },
+    "aliases": {
+      "en": [
+        "salivary gland mucous cell",
+        "salivary gland mucous cells",
+        "salivary mucous cell",
+        "salivary mucous cells",
+        "salivary glands mucous cell",
+        "salivary glands mucous cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "olysaccharide-rich secretion"
+      ]
+    },
+    "keywords": [
+      "saliva",
+      "olysaccharide"
+    ],
+    "locations": [
+      "mouth",
+      "salivary gland"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "salivary-gland-number-1-cell",
+    "label": {
+      "en": "Salivary gland number 1 cell"
+    },
+    "description": {
+      "en": "Salivary gland number 1 cell."
+    },
+    "aliases": {
+      "en": [
+        "salivary gland 1 cells",
+        "salivary gland 1 cell",
+        "salivary gland number 1 cells",
+        "salivary gland number 1 cell",
+        "salivary gland num 1 cells",
+        "salivary gland num 1 cell",
+        "salivary glands 1 cells",
+        "salivary glands 1 cell",
+        "salivary glands number 1 cells",
+        "salivary glands number 1 cell",
+        "salivary glands num 1 cells",
+        "salivary glands num 1 cell"
+      ]
+    },
+    "roles": {
+      "en": [
+        "glycoprotein enzyme-rich secretion"
+      ]
+    },
+    "keywords": [
+      "saliva",
+      "glycoprotein"
+    ],
+    "locations": [
+      "mouth",
+      "salivary gland"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "von-ebner-gland-cell",
+    "label": {
+      "en": "Von Ebner's gland cell"
+    },
+    "description": {
+      "en": "Von Ebner's gland cell, an exocrine gland cell found in the mouth."
+    },
+    "aliases": {
+      "en": [
+        "Von Ebner's gland cell",
+        "Von Ebner s gland cell",
+        "Von Ebner gland cell",
+        "Von Ebner's gland cells",
+        "Von Ebner s gland cells",
+        "Von Ebner gland cells",
+        "Ebner's gland cell",
+        "Ebner s gland cell",
+        "Ebner gland cell",
+        "Ebner's gland cells",
+        "Ebner s gland cells",
+        "Ebner gland cells",
+        "gustatory gland cell",
+        "gustatory gland cell",
+        "gustatory gland cells",
+        "gustatory gland cells",
+        "Von Ebner's glands cell",
+        "Von Ebner s glands cell",
+        "Von Ebner glands cell",
+        "Von Ebner's glands cells",
+        "Von Ebner s glands cells",
+        "Von Ebner glands cells",
+        "Ebner's glands cell",
+        "Ebner s glands cell",
+        "Ebner glands cell",
+        "Ebner's glands cells",
+        "Ebner s glands cells",
+        "Ebner glands cells",
+        "gustatory glands cell",
+        "gustatory glands cell",
+        "gustatory glands cells",
+        "gustatory glands cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "washes taste buds"
+      ]
+    },
+    "keywords": [
+      "taste",
+      "tongue"
+    ],
+    "locations": [
+      "mouth",
+      "Von Ebner's gland",
+      "Ebner's gland",
+      "gustatory glandell",
+      "glandulae salivariae"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "mammary-gland-cell",
+    "label": {
+      "en": "Mammary gland cell"
+    },
+    "description": {
+      "en": "Mammary gland cells are found in mammary glands and produce milk."
+    },
+    "aliases": {
+      "en": [
+        "mammary gland cell",
+        "mammary gland cells",
+        "mammary glands cell",
+        "mammary glands cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "milk secretion"
+      ]
+    },
+    "keywords": [
+      "milk"
+    ],
+    "locations": [
+      "mammary gland",
+      "breast",
+      "glandula mammaria"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "Lacrimal gland cell",
+    "label": {
+      "en": "Lacrimal gland cell"
+    },
+    "description": {
+      "en": "Lacrimal gland cells secrete lacrimal fluid."
+    },
+    "aliases": {
+      "en": [
+        "Lacrimal gland cell",
+        "Lacrimal gland cells",
+        "Lacrimal glands cell",
+        "Lacrimal glands cells"
+      ]
+    },
+    "keywords": [
+      "lacrimal fluid",
+      "tear"
+    ],
+    "roles": {
+      "en": [
+        "tear secretion"
+      ]
+    },
+    "locations": [
+      "lacrimal gland",
+      "eye",
+      "glandula lacrimalis"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "ceruminous-gland-cell",
+    "label": {
+      "en": "Ceruminous gland cell"
+    },
+    "description": {
+      "en": "Ceruminous gland cells are specialized sudoriferous cells that secrete cerumen (earwax)."
+    },
+    "aliases": {
+      "en": [
+        "ceruminous gland cell",
+        "ceruminous gland cells",
+        "ceruminous glands cell",
+        "ceruminous glands cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "cerumen secretion"
+      ]
+    },
+    "keywords": [
+      "cerumen"
+    ],
+    "locations": [
+      "meatus acusticus externus",
+      "ear",
+      "ceruminous gland"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "eccrine-sweat-gland-dark-cell",
+    "label": {
+      "en": "Eccrine sweat gland dark cell"
+    },
+    "description": {
+      "en": "Eccrine sweat gland dark cells secrete glycoprotein."
+    },
+    "aliases": {
+      "en": [
+        "eccrine gland dark cell",
+        "eccrine gland dark cells",
+        "merocrine gland dark cell",
+        "merocrine gland dark cells",
+        "eccrine sweat gland dark cell",
+        "eccrine sweat gland dark cells",
+        "merocrine sweat gland dark cell",
+        "merocrine sweat gland dark cells",
+        "eccrine glands dark cell",
+        "eccrine glands dark cells",
+        "merocrine glands dark cell",
+        "merocrine glands dark cells",
+        "eccrine sweat glands dark cell",
+        "eccrine sweat glands dark cells",
+        "merocrine sweat glands dark cell",
+        "merocrine sweat glands dark cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "glycoprotein secretion"
+      ]
+    },
+    "keywords": [
+      "sweat",
+      "glycoprotein"
+    ],
+    "locations": [
+      "eccrine sweat gland",
+      "glandula sudorifera merocrina",
+      "glandula sudorifera eccrina"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "eccrine-sweat-gland-clear-cell",
+    "label": {
+      "en": "Eccrine sweat gland clear cell"
+    },
+    "description": {
+      "en": "Eccrine sweat gland clear cells secrete glycoprotein."
+    },
+    "aliases": {
+      "en": [
+        "eccrine gland clear cell",
+        "eccrine gland clear cells",
+        "merocrine gland clear cell",
+        "merocrine gland clear cells",
+        "eccrine sweat gland clear cell",
+        "eccrine sweat gland clear cells",
+        "merocrine sweat gland clear cell",
+        "merocrine sweat gland clear cells",
+        "eccrine glands clear cell",
+        "eccrine glands clear cells",
+        "merocrine glands clear cell",
+        "merocrine glands clear cells",
+        "eccrine sweat glands clear cell",
+        "eccrine sweat glands clear cells",
+        "merocrine sweat glands clear cell",
+        "merocrine sweat glands clear cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "sweat secretion"
+      ]
+    },
+    "keywords": [
+      "sweat"
+    ],
+    "locations": [
+      "eccrine sweat gland",
+      "glandula sudorifera merocrina",
+      "glandula sudorifera eccrina"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "eccrine-sweat-gland-cell",
+    "label": {
+      "en": "Eccrine sweat gland cell"
+    },
+    "description": {
+      "en": "Eccrine sweat gland cells secrete glycoprotein and small molecules."
+    },
+    "aliases": {
+      "en": [
+        "eccrine gland cell",
+        "eccrine gland cells",
+        "merocrine gland cell",
+        "merocrine gland cells",
+        "eccrine sweat gland cell",
+        "eccrine sweat gland cells",
+        "merocrine sweat gland cell",
+        "merocrine sweat gland cells",
+        "eccrine glands cell",
+        "eccrine glands cells",
+        "merocrine glands cell",
+        "merocrine glands cells",
+        "eccrine sweat glands cell",
+        "eccrine sweat glands cells",
+        "merocrine sweat glands cell",
+        "merocrine sweat glands cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "glycoprotein secretion",
+        "small molecule secretion"
+      ]
+    },
+    "keywords": [
+      "sweat",
+      "glycoprotein"
+    ],
+    "locations": [
+      "eccrine sweat gland",
+      "glandula sudorifera merocrina",
+      "glandula sudorifera eccrina"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "apocrine-sweat-gland-cell",
+    "label": {
+      "en": "Apocrine sweat gland cell"
+    },
+    "description": {
+      "en": "Apocrine sweat gland cells secrete sweat."
+    },
+    "aliases": {
+      "en": [
+        "apocrine sweat gland cell",
+        "apocrine sweat gland cells",
+        "apocrine sweat glands cell",
+        "apocrine sweat glands cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "sweat secretion"
+      ]
+    },
+    "keywords": [
+      "sweat"
+    ],
+    "locations": [
+      "whole body",
+      "apocrine sweat gland"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "gland-of-moll-cell",
+    "label": {
+      "en": "Gland of Moll cell"
+    },
+    "description": {
+      "en": "Gland of Moll cells are specific apocrine sweat gland cells that secrete sweat around the eyelid."
+    },
+    "aliases": {
+      "en": [
+        "gland of moll cell",
+        "gland of moll cells",
+        "ciliary gland cell",
+        "ciliary gland cells",
+        "ciliary glands cell",
+        "ciliary glands cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "sweat secretion"
+      ]
+    },
+    "keywords": [
+      "sweat"
+    ],
+    "locations": [
+      "eyelid",
+      "Gland of Moll",
+      "glandulae ciliares conjunctivales"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "sebaceous-gland-cell",
+    "label": {
+      "en": "Sebaceous gland cell"
+    },
+    "description": {
+      "en": "Sebaceous gland cells secrete sebum."
+    },
+    "aliases": {
+      "en": [
+        "sebaceous gland cell",
+        "sebaceous gland cells",
+        "sebaceous glands cell",
+        "sebaceous glands cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "sebum secretion"
+      ]
+    },
+    "keywords": [
+      "sebum"
+    ],
+    "locations": [
+      "whole body",
+      "sebaceous gland"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "bowman-gland-cell",
+    "label": {
+      "en": "Bowman's gland cell"
+    },
+    "description": {
+      "en": "Bowman's gland cells are olfactory gland cell that wash olfactory epithelium."
+    },
+    "aliases": {
+      "en": [
+        "olfactory gland cell",
+        "olfactory gland cells",
+        "bowman's gland cell",
+        "bowman's gland cells",
+        "bowman s gland cell",
+        "bowman s gland cells",
+        "bowman gland cell",
+        "bowman gland cells",
+        "olfactory glands cell",
+        "olfactory glands cells",
+        "bowman's glands cell",
+        "bowman's glands cells",
+        "bowman s glands cell",
+        "bowman s glands cells",
+        "bowman glands cell",
+        "bowman glands cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "wash olfactory epithelium"
+      ]
+    },
+    "keywords": [
+      "olfactory epithelium"
+    ],
+    "locations": [
+      "bowman's gland",
+      "nose",
+      "glandulae olfactoriae"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "brunner-gland-cell",
+    "label": {
+      "en": "Brunner's gland cell"
+    },
+    "description": {
+      "en": "Brunner's gland cells (or duodenal gland cells) secrete enzymes and alkaline mucus."
+    },
+    "aliases": {
+      "en": [
+        "brunner's gland cell",
+        "brunner's gland cells",
+        "brunner s gland cell",
+        "brunner s gland cells",
+        "brunner gland cell",
+        "brunner gland cells",
+        "brunner's glands cell",
+        "brunner's glands cells",
+        "brunner s glands cell",
+        "brunner s glands cells",
+        "brunner glands cell",
+        "brunner glands cells",
+        "brunner cell",
+        "brunner cells",
+        "duodenal gland cell",
+        "duodenal gland cells",
+        "duodenal glands cell",
+        "duodenal glands cells",
+        "duodenal cell",
+        "duodenal cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "enzyme secretion",
+        "alkaline mucus secretion"
+      ]
+    },
+    "keywords": [
+      "alkaline mucus"
+    ],
+    "locations": [
+      "brunner's gland",
+      "glandulae duodenales",
+      "duodenum"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "seminal-vesicle-cell",
+    "label": {
+      "en": "Seminal vesicle cell"
+    },
+    "description": {
+      "en": "Seminal vesicle cells secrete seminal fluid components."
+    },
+    "aliases": {
+      "en": [
+        "seminal vesicle cell",
+        "seminal vesicle cells",
+        "seminal vesicles cell",
+        "seminal vesicles cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "seminal fluid secretion",
+        "fructose secretion"
+      ]
+    },
+    "keywords": [
+      "seminal fluid"
+    ],
+    "locations": [
+      "seminal vesicle"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "prostate-gland-cell",
+    "label": {
+      "en": "Prostate gland cell"
+    },
+    "description": {
+      "en": "Prostate gland cells secrete seminal fluid components."
+    },
+    "aliases": {
+      "en": [
+        "prostate gland cell",
+        "prostate gland cells",
+        "prostate glands cell",
+        "prostate glands cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "seminal fluid secretion"
+      ]
+    },
+    "keywords": [
+      "seminal fluid"
+    ],
+    "locations": [
+      "prostata",
+      "prostate",
+      "prostate gland"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "bulbourethral-gland-cell",
+    "label": {
+      "en": "Bulbourethral gland cell"
+    },
+    "description": {
+      "en": "Bulbourethral gland cells (Cowper gland cells) secrete mucus."
+    },
+    "aliases": {
+      "en": [
+        "bulbourethral gland cell",
+        "bulbourethral gland cells",
+        "cowper gland cell",
+        "cowper gland cells",
+        "bulbourethral glands cell",
+        "bulbourethral glands cells",
+        "cowper glands cell",
+        "cowper glands cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "mucus secretion"
+      ]
+    },
+    "keywords": [
+      "mucus"
+    ],
+    "locations": [
+      "glandulae bulbourethrales",
+      "deep perineal pouch"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "bartholin-gland-cell",
+    "label": {
+      "en": "Bartholin's gland cell"
+    },
+    "description": {
+      "en": "Bartholin's gland cells (or  greater vestibular gland cells) secrete vaginal lubricant."
+    },
+    "aliases": {
+      "en": [
+        "bartholin's gland cell",
+        "bartholin's gland cells",
+        "bartholin s gland cell",
+        "bartholin s gland cells",
+        "bartholin gland cell",
+        "bartholin gland cells",
+        "greater vestibular gland cell",
+        "greater vestibular gland cells",
+        "bartholin's glands cell",
+        "bartholin's glands cells",
+        "bartholin s glands cell",
+        "bartholin s glands cells",
+        "bartholin glands cell",
+        "bartholin glands cells",
+        "greater vestibular glands cell",
+        "greater vestibular glands cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "vaginal lubricant secretion"
+      ]
+    },
+    "keywords": [
+      "lubricant",
+      "vagina"
+    ],
+    "locations": [
+      "glandula vestibularis major",
+      "superficial perineal pouch"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "urethral-gland-cell",
+    "label": {
+      "en": "Urethral gland cell"
+    },
+    "description": {
+      "en": "Urethral gland cells secrete mucus to protect the epithelium against urine."
+    },
+    "aliases": {
+      "en": [
+        "urethral gland cell",
+        "urethral gland cells",
+        "periurethral gland cell",
+        "periurethral gland cells",
+        "urethral glands cell",
+        "urethral glands cells",
+        "periurethral glands cell",
+        "periurethral glands cells",
+        "urethral cell",
+        "urethral cells",
+        "periurethral cell",
+        "periurethral cells",
+        "littre gland cell",
+        "littre gland cells",
+        "littre glands cell",
+        "littre glands cells",
+        "littre cell",
+        "littre cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "mucus secretion",
+        "epithelium protection"
+      ]
+    },
+    "keywords": [
+      "mucus"
+    ],
+    "locations": [
+      "urethra",
+      "glandulae urethrales urethrae masculinae"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "uterus-endometrium-cell",
+    "label": {
+      "en": "Uterus endometrium cell"
+    },
+    "description": {
+      "en": "Uterus endometrium cells secrete carbohydrate compounds."
+    },
+    "aliases": {
+      "en": [
+        "endometrium cell",
+        "endometrium cells",
+        "uterus endometrium cell",
+        "uterus endometrium cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "carbohydrate secretion"
+      ]
+    },
+    "keywords": [
+      "carbohydrate"
+    ],
+    "locations": [
+      "tunica mucosa uteri",
+      "uterus",
+      "endometrium",
+      "uterus endometrium"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "goblet-cell",
+    "label": {
+      "en": "goblet cell"
+    },
+    "description": {
+      "en": "goblet cells secrete gel-forming mucins."
+    },
+    "aliases": {
+      "en": [
+        "goblet cell",
+        "goblet cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "gel-forming mucins secretion",
+        "mucus secretion"
+      ]
+    },
+    "keywords": [
+      "mucin",
+      "mucus"
+    ],
+    "locations": [
+      "mucus membranes",
+      "intestine",
+      "mucous"
+    ],
+    "latin": "exocrimohsinocytus caliciformis",
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "stomach-lining-mucous-cell",
+    "label": {
+      "en": "Stomach lining mucous cell"
+    },
+    "description": {
+      "en": "Stomach lining mucous cells secrete mucus."
+    },
+    "aliases": {
+      "en": [
+        "stomach lining mucous cell",
+        "stomach lining mucous cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "mucus secretion"
+      ]
+    },
+    "keywords": [
+      "mucus"
+    ],
+    "locations": [
+      "stomach",
+      "stomach lining",
+      "stomach mucous"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "gastric-gland-zymogenic-cell",
+    "label": {
+      "en": "Gastric gland zymogenic cell"
+    },
+    "description": {
+      "en": "Gastric gland zymogenic cells secrete pepsinogen and gastric lipase."
+    },
+    "aliases": {
+      "en": [
+        "peptic cell",
+        "peptic cells",
+        "gastric chief cell",
+        "gastric chief cells",
+        "gastric zymogenic cell",
+        "gastric zymogenic cells",
+        "gastric glands zymogenic cell",
+        "gastric glands zymogenic cells",
+        "gastric gland zymogenic cell",
+        "gastric gland zymogenic cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "gastric lipase secretion",
+        "pepsinogen secretion"
+      ]
+    },
+    "keywords": [
+      "pepsinogen",
+      "gastric lipase"
+    ],
+    "locations": [
+      "glandulae gastricae",
+      "stomach",
+      "ventriculus"
+    ],
+    "latine-name": "exocrinocytus principalis",
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "gastric-gland-oxyntic-cell",
+    "label": {
+      "en": "Gastric gland oxyntic cell"
+    },
+    "description": {
+      "en": "Gastric gland oxyntic cells are epithelial cells that secrete hydrochloric acid."
+    },
+    "aliases": {
+      "en": [
+        "parietal cell",
+        "parietal cells",
+        "delomorphous cell",
+        "delomorphous cells",
+        "oxyntic cell",
+        "oxyntic cells",
+        "gastric delomorphous cell",
+        "gastric delomorphous cells",
+        "gastric oxyntic cell",
+        "gastric oxyntic cells",
+        "gastric glands oxyntic cell",
+        "gastric glands oxyntic cells",
+        "gastric gland oxyntic cell",
+        "gastric gland oxyntic cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "gastric factor secretion",
+        "intrinsic factor secretion",
+        "hydrochloric acid secretion"
+      ]
+    },
+    "keywords": [
+      "hydrochloric acid",
+      "gastric factor",
+      "intrinsic factor"
+    ],
+    "locations": [
+      "glandulae gastricae",
+      "stomach",
+      "ventriculus"
+    ],
+    "latine-name": "exocrinocytus parietalis",
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "pancreatic-acinar-cell",
+    "label": {
+      "en": "Pancreatic acinar cell"
+    },
+    "description": {
+      "en": "Pancreatic acinar cells secrete bicarbonate and digestive enzyme."
+    },
+    "aliases": {
+      "en": [
+        "acinar cell",
+        "acinar cells",
+        "pancreatic acinar cell",
+        "pancreatic acinar cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "bicarbonate secretion",
+        "digestive enzyme secretion"
+      ]
+    },
+    "keywords": [
+      "bicarbonate",
+      "digestive enzyme"
+    ],
+    "locations": [
+      "pancreas"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "paneth-cell",
+    "label": {
+      "en": "Paneth cell"
+    },
+    "description": {
+      "en": "Paneth cells are found in the small intestine epithelium and secrete lysozyme."
+    },
+    "aliases": {
+      "en": [
+        "paneth cell",
+        "paneth cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "lysozyme secretion"
+      ]
+    },
+    "keywords": [
+      "lysozyme"
+    ],
+    "locations": [
+      "intestinum tenue",
+      "intestinum tenue epithelium"
+    ],
+    "latin": "cellula panethensis",
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "pneumocyte-type-2-cell",
+    "label": {
+      "en": "Type II pneumocyte cell"
+    },
+    "description": {
+      "en": "Type II pneumocyte cells secrete surfactant in the lung."
+    },
+    "aliases": {
+      "en": [
+        "pneumocyte type 2 cell",
+        "pneumocyte type 2 cell",
+        "type 2 pneumocyte cell",
+        "type 2 pneumocyte cell",
+        "type 2 lung pneumocyte cell",
+        "type 2 lung pneumocyte cell",
+        "pneumocyte type II cell",
+        "pneumocyte type II cells",
+        "type II pneumocyte cell",
+        "type II pneumocyte cells",
+        "type II lung pneumocyte cell",
+        "type II lung pneumocyte cells",
+        "alveolar type 2 cell",
+        "alveolar type 2 cell",
+        "type 2 alveolar cell",
+        "type 2 alveolar cell",
+        "type 2 lung alveolar cell",
+        "type 2 lung alveolar cell",
+        "alveolar type II cell",
+        "alveolar type II cells",
+        "type II alveolar cell",
+        "type II alveolar cells",
+        "type II lung alveolar cell",
+        "type II lung alveolar cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "surfactant secretion"
+      ]
+    },
+    "keywords": [
+      "lung",
+      "surfactant"
+    ],
+    "locations": [
+      "pulmonary alveolus",
+      "alveolus pulmonis",
+      "lung"
+    ],
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "bronchiolar-exocrine-cell",
+    "label": {
+      "en": "Bronchiolar exocrine cell"
+    },
+    "description": {
+      "en": "Bronchiolar exocrine cells (also known as club cells and clara cells) secrete glycosaminoglycans to protect the bronchiole lining."
+    },
+    "aliases": {
+      "en": [
+        "bronchiolar exocrine cell",
+        "bronchiolar exocrine cells",
+        "clara cells",
+        "clara cells",
+        "club cell",
+        "club cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "glycosaminoglycan secretion"
+      ]
+    },
+    "keywords": [
+      "glycosaminoglycan"
+    ],
+    "locations": [
+      "bronchiole",
+      "bronchioli"
+    ],
+    "latin": "exocrinocytus bronchiolaris",
+    "germlayer": "endoderm",
+    "category": "exocrine secretory epithelial cell"
+  },
+  {
+    "id": "somatotropic-cell",
+    "label": {
+      "en": "Somatotropic cell"
+    },
+    "description": {
+      "en": "Somatotropic cells produce somatotropin (growth hormone)."
+    },
+    "aliases": {
+      "en": [
+        "somatotropic cell",
+        "somatotropic cells",
+        "somatotrope",
+        "somatotropes",
+        "somatotroph",
+        "somatotrophs"
+      ]
+    },
+    "roles": {
+      "en": [
+        "somatotropin production"
+      ]
+    },
+    "keywords": [
+      "somatotropin",
+      "growth hormone"
+    ],
+    "locations": [
+      "anterior pituitary",
+      "lobus anterior hypophysis"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "prolactin-cell",
+    "label": {
+      "en": "Prolactin cell"
+    },
+    "description": {
+      "en": "Prolactin cells produce prolactin."
+    },
+    "aliases": {
+      "en": [
+        "prolactin cell",
+        "prolactin cells",
+        "lactotrope",
+        "lactotropes",
+        "epsilon acidophil",
+        "lactotropic cell",
+        "lactotropic cells",
+        "lactotroph",
+        "lactotrophs",
+        "mammotroph",
+        "mammotrophs",
+        "mammatroph",
+        "mammatrophs",
+        "mammotrop",
+        "mammatrop",
+        "mammotrops",
+        "mammatrops"
+      ]
+    },
+    "roles": {
+      "en": [
+        "prolactin production"
+      ]
+    },
+    "keywords": [
+      "prolactin"
+    ],
+    "locations": [
+      "anterior pituitary",
+      "lobus anterior hypophysis"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "thyrotropic-cell",
+    "label": {
+      "en": "Thyrotropic cell"
+    },
+    "description": {
+      "en": "Thyrotropic cells produce thyrotropin (thyroid-stimulating hormone)."
+    },
+    "aliases": {
+      "en": [
+        "thyrotropic cell",
+        "thyrotropic cells",
+        "thyrotrope",
+        "thyrotropes",
+        "thyrotroph",
+        "thyrotrophs"
+      ]
+    },
+    "roles": {
+      "en": [
+        "thyrotropin production"
+      ]
+    },
+    "keywords": [
+      "thyrotropin"
+    ],
+    "locations": [
+      "anterior pituitary",
+      "lobus anterior hypophysis"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "gonadotropic-cell",
+    "label": {
+      "en": "Gonadotropic cell"
+    },
+    "description": {
+      "en": "Gonadotropic cells produce gonadotropin (follicle-stimulating hormone) and lutropin (interstitial cell–stimulating hormone)."
+    },
+    "aliases": {
+      "en": [
+        "gonadotropic cell",
+        "gonadotropic cells",
+        "gonadotrope",
+        "gonadotropes",
+        "gonadotroph",
+        "gonadotrophs"
+      ]
+    },
+    "roles": {
+      "en": [
+        "gonadotropin production",
+        "lutropin production"
+      ]
+    },
+    "keywords": [
+      "gonadotropin",
+      "lutropin"
+    ],
+    "locations": [
+      "anterior pituitary",
+      "lobus anterior hypophysis"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "corticotropic-cell",
+    "label": {
+      "en": "Corticotropic cell"
+    },
+    "description": {
+      "en": "Corticotropic cells produce melanotropin (melanocyte-stimulating hormone), corticotropin (adrenocorticotropic hormone) and lipotropin."
+    },
+    "aliases": {
+      "en": [
+        "corticotropic cell",
+        "corticotropic cells",
+        "corticotrope",
+        "corticotropes",
+        "corticotroph",
+        "corticotrophs"
+      ]
+    },
+    "roles": {
+      "en": [
+        "melanotropin production",
+        "corticotropin production",
+        "lipotropin production"
+      ]
+    },
+    "keywords": [
+      "melanotropin"
+    ],
+    "locations": [
+      "anterior pituitary",
+      "lobus anterior hypophysis"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "intermediate-pituitary-cell",
+    "label": {
+      "en": "Intermediate pituitary cell"
+    },
+    "description": {
+      "en": "Intermediate pituitary cells produce melanotropin (melanocyte-stimulating hormone)."
+    },
+    "aliases": {
+      "en": [
+        "intermediate pituitary cell",
+        "intermediate pituitary cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "melanotropin production"
+      ]
+    },
+    "keywords": [
+      "melanotropin",
+      "melanocyte"
+    ],
+    "locations": [
+      "pituitary",
+      "hypophysis",
+      "glandula pituitaria"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "magnocellular-neurosecretory-cell",
+    "label": {
+      "en": "Magnocellular neurosecretory cell"
+    },
+    "description": {
+      "en": "Magnocellular neurosecretory cells produce oxytocin and vasopressin hormones."
+    },
+    "aliases": {
+      "en": [
+        "magnocellular neurosecretory cell",
+        "magnocellular neurosecretory cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "oxytocin production",
+        "vasopressin production"
+      ]
+    },
+    "keywords": [
+      "oxytocin",
+      "vasopressin"
+    ],
+    "locations": [
+      "supraoptic nucleus",
+      "paraventricular nucleus",
+      "nucleus supraopticus",
+      "nucleus paraventricularis hypothalami",
+      "hypothalamus"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "respiratory-tract-cell",
+    "label": {
+      "en": "Respiratory tract cell"
+    },
+    "description": {
+      "en": "Respiratory tract cells are found to produce serotonin, endorphin, somatostatin, gastrin, secretin, cholecystokinin, insulin and glucagon."
+    },
+    "aliases": {
+      "en": [
+        "respiratory tract cell",
+        "respiratory tract cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "serotonin production",
+        "endorphin production",
+        "somatostatin production",
+        "gastrin production",
+        "secretin production",
+        "cholecystokinin production",
+        "insulin production",
+        "glucagon production"
+      ]
+    },
+    "keywords": [
+      "serotonin",
+      "endorphin",
+      "somatostatin",
+      "gastrin",
+      "secretin",
+      "cholecystokinin",
+      "insulin",
+      "glucagon"
+    ],
+    "locations": [
+      "respiratory epithelium"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "gut-cell",
+    "label": {
+      "en": "Gut cell"
+    },
+    "description": {
+      "en": "Gut cells are found to produce serotonin, endorphin, somatostatin, gastrin, secretin, cholecystokinin, insulin and glucagon."
+    },
+    "aliases": {
+      "en": [
+        "gut cell",
+        "gut cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "serotonin production",
+        "endorphin production",
+        "somatostatin production",
+        "gastrin production",
+        "secretin production",
+        "cholecystokinin production",
+        "insulin production",
+        "glucagon production"
+      ]
+    },
+    "keywords": [
+      "serotonin",
+      "endorphin",
+      "somatostatin",
+      "gastrin",
+      "secretin",
+      "cholecystokinin",
+      "insulin",
+      "glucagon"
+    ],
+    "locations": [
+      "tractus digestorius",
+      "canalis alimentarius",
+      "canalis gastrointestinales"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "follicular-cell",
+    "label": {
+      "en": "Follicular cell"
+    },
+    "description": {
+      "en": "Follicular cells are neuroendocrine cells that produce thyroxine and triiodothyronine (thyroid hormones)."
+    },
+    "aliases": {
+      "en": [
+        "follicular cell",
+        "follicular cells",
+        "thyroid epithelial cell",
+        "thyroid epithelial cells",
+        "thyrocyte",
+        "thyrocytes"
+      ]
+    },
+    "roles": {
+      "en": [
+        "thyroxine production",
+        "triiodothyronine production"
+      ]
+    },
+    "keywords": [
+      "thyroxine",
+      "triiodothyronine"
+    ],
+    "locations": [
+      "thyroid",
+      "glandula thyreoidea"
+    ],
+    "germlayer": "endoderm",
+    "subcategory": "neuroendocrine cell",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "parafollicular-cell",
+    "label": {
+      "en": "Parafollicular cell"
+    },
+    "description": {
+      "en": "Parafollicular cells are neuroendocrine cells that produce calcitonin."
+    },
+    "aliases": {
+      "en": [
+        "parafollicular cell",
+        "parafollicular cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "calcitonin production"
+      ]
+    },
+    "keywords": [
+      "calcitonin",
+      "neuroendocrine"
+    ],
+    "locations": [
+      "thyroid gland",
+      "glandula thyreoidea"
+    ],
+    "germlayer": "endoderm",
+    "subcategory": "neuroendocrine cell",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "parathyroid-chief-cell",
+    "label": {
+      "en": "Parathyroid chief cell"
+    },
+    "description": {
+      "en": "Parathyroid chief cells are neuroendocrine cells that produce parathyrin (Parathyroid hormone)."
+    },
+    "aliases": {
+      "en": [
+        "parathyroid chief cell",
+        "parathyroid chief cells",
+        "parathyroid principal cell",
+        "parathyroid principal cells",
+        "parathyroid cell",
+        "parathyroid cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "parathyrin production"
+      ]
+    },
+    "keywords": [
+      "parathyrin",
+      "parathormone",
+      "parathyroid"
+    ],
+    "locations": [
+      "parathyroid gland",
+      "glandula parathyreoidea inferior",
+      "glandula parathyreoidea superior"
+    ],
+    "germlayer": "endoderm",
+    "subcategory": "neuroendocrine cell",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "parathyroid-oxyphil-cell",
+    "label": {
+      "en": "Parathyroid oxyphil cell"
+    },
+    "description": {
+      "en": "Parathyroid oxyphil cells are neuroendocrine cells located in the parathyroid."
+    },
+    "aliases": {
+      "en": [
+        "parathyroid oxyphil cell",
+        "parathyroid oxyphil cells",
+        "oxyphil cell",
+        "oxyphil cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "unknown"
+      ]
+    },
+    "keywords": [
+      "oxyphil",
+      "parathyroid"
+    ],
+    "locations": [
+      "parathyroid gland",
+      "glandula parathyreoidea inferior",
+      "glandula parathyreoidea superior"
+    ],
+    "germlayer": "endoderm",
+    "subcategory": "neuroendocrine cell",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "chromaffin-cell",
+    "label": {
+      "en": "Chromaffin cell"
+    },
+    "description": {
+      "en": "Chromaffin cells are neuroendocrine cells found in the medulla of the adrenal glands."
+    },
+    "aliases": {
+      "en": [
+        "chromaffin cell",
+        "chromaffin cells",
+        "pheochromocyte",
+        "pheochromocytes"
+      ]
+    },
+    "roles": {
+      "en": [
+        "catecholamine production",
+        "epinephrine production",
+        "norepinephrine production"
+      ]
+    },
+    "keywords": [
+      "epinephrine",
+      "norepinephrine",
+      "adrenaline",
+      "noradrenaline"
+    ],
+    "locations": [
+      "adrenal medulla",
+      "medulla glandulae suprarenalis"
+    ],
+    "germlayer": "endoderm",
+    "subcategory": "neuroendocrine cell",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "adrenal-gland-cell",
+    "label": {
+      "en": "Adrenal-gland cell"
+    },
+    "description": {
+      "en": "Adrenal gland cells are neuroendocrine cells found in the medulla of the adrenal glands. They produce catecholamines and steroids."
+    },
+    "aliases": {
+      "en": [
+        "adrenal gland cell",
+        "adrenal gland cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "catecholamine production",
+        "steroids production",
+        "adrenaline production"
+      ]
+    },
+    "keywords": [
+      "catecholamine",
+      "steroids",
+      "adrenaline"
+    ],
+    "locations": [
+      "adrenal medulla",
+      "medulla glandulae suprarenalis"
+    ],
+    "germlayer": "endoderm",
+    "subcategory": "neuroendocrine cell",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "leydig-cell",
+    "label": {
+      "en": "Leydig cell"
+    },
+    "description": {
+      "en": "Interstitial cells of leydig are found in the testes and produce testosterone."
+    },
+    "aliases": {
+      "en": [
+        "leydig cell",
+        "leydig cells",
+        "interstitial cell of leydig",
+        "interstitial cells of leydig"
+      ]
+    },
+    "roles": {
+      "en": [
+        "testosterone production",
+        "lutropin receptor"
+      ]
+    },
+    "keywords": [
+      "testosterone",
+      "lutropin",
+      "testes"
+    ],
+    "locations": [
+      "testis"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "theca-interna-cell",
+    "label": {
+      "en": "Theca interna cell"
+    },
+    "description": {
+      "en": "Theca interna cells are found in the testes and produce androstenedione, an estrogen precursor."
+    },
+    "aliases": {
+      "en": [
+        "theca interna cell",
+        "theca interna cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "androstenedione production",
+        "estrogen production",
+        "lutropin receptor"
+      ]
+    },
+    "keywords": [
+      "androstenedione",
+      "estrogen",
+      "lutropin",
+      "ovaries"
+    ],
+    "locations": [
+      "ovarian follicle",
+      "folliculus ovaricus"
+    ],
+    "latin": "tunica interna thecae folliculi",
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "granulosa-lutein-cell",
+    "label": {
+      "en": "Granulosa lutein cell"
+    },
+    "description": {
+      "en": "Granulosa lutein cells are found in the corpus luteum of the ovarian follicle and produce progesterone."
+    },
+    "aliases": {
+      "en": [
+        "granulosa lutein cell",
+        "granulosa lutein cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "progesterone production"
+      ]
+    },
+    "keywords": [
+      "progesterone"
+    ],
+    "locations": [
+      "corpus luteum"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "theca-lutein-cell",
+    "label": {
+      "en": "Theca lutein cell"
+    },
+    "description": {
+      "en": "Theca lutein cells are found in the corpus luteum of the ovarian follicle."
+    },
+    "aliases": {
+      "en": [
+        "theca lutein cell",
+        "theca lutein cells"
+      ]
+    },
+    "roles": {
+      "en": [
+      ]
+    },
+    "keywords": [
+    ],
+    "locations": [
+      "corpus luteum"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "juxtaglomerular-cell",
+    "label": {
+      "en": "Juxtaglomerular cell"
+    },
+    "description": {
+      "en": "Juxtaglomerular cells are found in the kidney and secrete angiotensinogenase (renin enzyme)."
+    },
+    "aliases": {
+      "en": [
+        "juxtaglomerular cell",
+        "juxtaglomerular cells",
+        "jg cell",
+        "jg cells",
+        "granular cell",
+        "granular cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "renin production",
+        "angiotensinogenase production"
+      ]
+    },
+    "keywords": [
+      "renin",
+      "angiotensinogenase"
+    ],
+    "locations": [
+      "kidney",
+      "ren"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "macula-densa-cell",
+    "label": {
+      "en": "Macula densa cell"
+    },
+    "description": {
+      "en": "Macula densa cells are found in the macula densa area of the kidney."
+    },
+    "aliases": {
+      "en": [
+        "macula densa cell",
+        "macula densa cells"
+      ]
+    },
+    "roles": {
+      "en": [
+      ]
+    },
+    "keywords": [
+      "renin"
+    ],
+    "locations": [
+      "macula densa",
+      "kidney",
+      "ren"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "glomerular-peripolar-cell",
+    "label": {
+      "en": "Glomerular peripolar cell"
+    },
+    "description": {
+      "en": "Glomerular peripolar cells are found in the kidney."
+    },
+    "aliases": {
+      "en": [
+        "glomerular peripolar cell",
+        "glomerular peripolar cells",
+        "peripolar cell",
+        "peripolar cells",
+        "peripolar renal cell",
+        "peripolar renal cells",
+        "peripolar kidney cell",
+        "peripolar kidney cells"
+      ]
+    },
+    "roles": {
+      "en": [
+      ]
+    },
+    "keywords": [
+      "kidney"
+    ],
+    "locations": [
+      "kidney",
+      "ren"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "mesangial-cell",
+    "label": {
+      "en": "Mesangial cell"
+    },
+    "description": {
+      "en": "Mesangial cells are renal cells found in the mesangium"
+    },
+    "aliases": {
+      "en": [
+        "mesangial cell",
+        "mesangial cells"
+      ]
+    },
+    "roles": {
+      "en": [
+      ]
+    },
+    "keywords": [
+      "mesangium",
+      "kidney"
+    ],
+    "locations": [
+      "mesangium",
+      "kidney",
+      "ren"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "extraglomerular-mesangial-cell",
+    "label": {
+      "en": "Extraglomerular mesangial cell"
+    },
+    "description": {
+      "en": "Extraglomerular mesangial cells are pericytes cells found near the glomerulus and the vascular pole"
+    },
+    "aliases": {
+      "en": [
+        "extraglomerular mesangial cell",
+        "extraglomerular mesangial cells",
+        "lacis cell",
+        "lacis cells",
+        "goormaghtigh cell",
+        "goormaghtigh cells",
+        "polkissen cell",
+        "polkissen cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "blood flow regulation",
+        "blood pressure regulation"
+      ]
+    },
+    "keywords": [
+      "blood pressure",
+      "erythropoietin"
+    ],
+    "locations": [
+      "glomerulus",
+      "kidney",
+      "ren"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "intraglomerular-mesangial-cell",
+    "label": {
+      "en": "Intraglomerular mesangial cell"
+    },
+    "description": {
+      "en": "Intraglomerular mesangial cells are specialized pericytes cells found in the glomerulus, between the basement membrane and the epithelial cells"
+    },
+    "aliases": {
+      "en": [
+        "intraglomerular mesangial cell",
+        "intraglomerular mesangial cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "blood filtration",
+        "phagocytosis",
+        "vimentin receptor",
+        "desmin receptor"
+      ]
+    },
+    "keywords": [
+      "blood filtration",
+      "phagocytosis",
+      "vimentin",
+      "desmin"
+    ],
+    "locations": [
+      "glomerular capillaries",
+      "glomerulus renalis",
+      "glomerulus",
+      "mesangium",
+      "kidney",
+      "ren"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "alpha-cell",
+    "label": {
+      "en": "alpha cell"
+    },
+    "description": {
+      "en": "Alpha cells are pancreatic islets producing glucagon."
+    },
+    "aliases": {
+      "en": [
+        "alpha cell",
+        "alpha cells",
+        "pancreatic alpha cell",
+        "pancreatic alpha cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "glucagon production"
+      ]
+    },
+    "keywords": [
+      "glucagon",
+      "pancreas"
+    ],
+    "locations": [
+      "pancreatic islets",
+      "pancreas"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "beta-cell",
+    "label": {
+      "en": "beta cell"
+    },
+    "description": {
+      "en": "Beta cells are pancreatic islets producing insulin and amylin."
+    },
+    "aliases": {
+      "en": [
+        "beta cell",
+        "beta cells",
+        "pancreatic beta cell",
+        "pancreatic beta cells",
+        "insulin cell",
+        "insulin cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "insulin production",
+        "amylin production"
+      ]
+    },
+    "keywords": [
+      "insulin",
+      "amylin",
+      "pancreas"
+    ],
+    "locations": [
+      "pancreatic islets",
+      "pancreas"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "delta-cell",
+    "label": {
+      "en": "Delta cell"
+    },
+    "description": {
+      "en": "Delta cells are pancreatic islets producing somatostatin."
+    },
+    "aliases": {
+      "en": [
+        "delta cell",
+        "delta cells",
+        "pancreatic delta cell",
+        "pancreatic delta cells",
+        "somatostatin cell",
+        "somatostatin cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "somatostatin production"
+      ]
+    },
+    "keywords": [
+      "somatostatin",
+      "pancreas"
+    ],
+    "locations": [
+      "pancreatic islets",
+      "pancreas"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "gamma-cell",
+    "label": {
+      "en": "Gamma cell"
+    },
+    "description": {
+      "en": "Gamma cells (or PP cells) are pancreatic islets producing pancreatic polypeptide."
+    },
+    "aliases": {
+      "en": [
+        "gamma cell",
+        "gamma cells",
+        "pancreatic gamma cell",
+        "pancreatic gamma cells",
+        "pp cell",
+        "pp cells",
+        "pancreatic polypeptide cell",
+        "pancreatic polypeptide cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "pancreatic polypeptide production"
+      ]
+    },
+    "keywords": [
+      "pancreatic polypeptide",
+      "pancreas"
+    ],
+    "locations": [
+      "pancreatic islets",
+      "pancreas"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  },
+  {
+    "id": "epsilon-cell",
+    "label": {
+      "en": "Epsilon cell"
+    },
+    "description": {
+      "en": "Epsilon cells are pancreatic islets producing ghrelin."
+    },
+    "aliases": {
+      "en": [
+        "epsilon cell",
+        "epsilon cells",
+        "pancreatic epsilon cell",
+        "pancreatic epsilon cells",
+        "ghrelin cell",
+        "ghrelin cells"
+      ]
+    },
+    "roles": {
+      "en": [
+        "ghrelin production"
+      ]
+    },
+    "keywords": [
+      "ghrelin",
+      "pancreas"
+    ],
+    "locations": [
+      "pancreatic islets",
+      "pancreas"
+    ],
+    "germlayer": "endoderm",
+    "category": "hormone-secreting cell"
+  }
+]
